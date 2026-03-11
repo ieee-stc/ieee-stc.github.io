@@ -2027,6 +2027,7 @@ fieldset[disabled] .s-btn {
 
 .s-header-v2__logo-img--default {
   display: block;
+  filter: brightness(0) invert(1);
 }
 
 @media (max-width: 73em) {
